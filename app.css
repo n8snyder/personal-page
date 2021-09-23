@@ -1,0 +1,33 @@
+#navbar {
+    overflow: hidden;
+    background-color: skyblue;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+
+#navbar a {
+    color:saddlebrown;
+    font-size: 17px;
+    padding: 14px 16px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    float: left;
+}
+
+#navbar a:hover {
+    background: saddlebrown;
+    color: skyblue;
+  }
+
+body {
+    background-color:beige;
+}
+
+section {
+    /* margin-top: 30px;
+    margin-bottom: 150px; */
+    height: 500px;
+    padding-top: 50px;
+}
